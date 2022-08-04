@@ -1,12 +1,17 @@
 ### Hello, i'm Gabriel Bernardo
 
-<!--
-**gabiruexe/gabiruexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Front-End developer
 - 🌱 HTML / CSS / JAVASCRIPT / PYTHON
 - 😄 Pronouns: he/him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiruexe)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bernardo-dos-reis-84205822b/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxiEetyrr8BQ-sX0W-6FiqA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.berreis/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gabriel48091382)
+
+![Gabiru GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiruexe&show_icons=true&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiruexe&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
